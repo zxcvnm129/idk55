@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -770,4 +769,3 @@ st.caption(
     "회귀모델의 미래 예측값은 과거의 선형 추세를 "
     "연장한 통계적 추정값입니다."
 )
-```
